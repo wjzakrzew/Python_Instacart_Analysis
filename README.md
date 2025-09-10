@@ -5,5 +5,4 @@
 **SUMMARY:** 
 
 
-Data Sources: [Customer Data](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
-  Other additional datasets provided were fictional for the purposes of this analysis.
+Data Sources: This projects used a fictional dataset and additionally this [Customer Data](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
